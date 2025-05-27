@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/form.main.iml" filepath="$PROJECT_DIR$/.idea/modules/form.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/message.main.iml" filepath="$PROJECT_DIR$/.idea/modules/message.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/thymeleaf_Practice.iml" filepath="$PROJECT_DIR$/.idea/thymeleaf_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/validation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/validation.test.iml" />
     </modules>
   </component>
 </project>
