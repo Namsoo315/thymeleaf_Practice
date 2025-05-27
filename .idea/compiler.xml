@@ -11,4 +11,17 @@
       </profile>
     </annotationProcessing>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="form" options="-parameters" />
+      <module name="form.main" options="-parameters" />
+      <module name="form.test" options="-parameters" />
+      <module name="message" options="-parameters" />
+      <module name="message.main" options="-parameters" />
+      <module name="message.test" options="-parameters" />
+      <module name="validation" options="-parameters" />
+      <module name="validation.main" options="-parameters" />
+      <module name="validation.test" options="-parameters" />
+    </option>
+  </component>
 </project>
